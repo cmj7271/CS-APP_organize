@@ -1,31 +1,31 @@
 {
   "vaultName": "obsidian",
-  "lastExport": 1744259519041,
+  "lastExport": 1744260177792,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-current-line anp-callout-color-toggle anp-custom-checkboxes anp-speech-bubble anp-toggle-scrollbars anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-decoration-toggle anp-bold-rosewater anp-italic-green anp-highlight-lavender anp-colorful-frame anp-file-icons anp-collapse-folders anp-simple-rainbow-color-toggle anp-theme-ext-light anp-theme-ext-dark anp-theme-ext-amoled ctp-luminescence-light ctp-dracula",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "CS_APP_organize/chapter1/imgs/abstractions_provided_by_os.png",
-    "CS_APP_organize/chapter1/imgs/process_virtual_address_space.png",
-    "CS_APP_organize/chapter1/1.1-Info=Bits+Context.md",
-    "CS_APP_organize/chapter1/1.2-Translate_Program.md",
-    "CS_APP_organize/chapter1/1.3-Importance_of_Understanding_Compiler.md",
-    "CS_APP_organize/chapter1/1.4-Proccessor_reads_Instruction_in_Memory.md",
-    "CS_APP_organize/chapter1/1.5-Cache_is_important.md",
-    "CS_APP_organize/chapter1/1.6-Hierarchy_of_Memory.md",
-    "CS_APP_organize/chapter1/1.7-OS_manage_Hardware.md",
-    "CS_APP_organize/chapter1/1.8-System_communicate_System_with_Network.md",
-    "CS_APP_organize/chapter1/1.9-Other_important_Themes.md",
-    "CS_APP_organize/chapter1/1.10-Summary.md",
-    "CS_APP_organize/chapter2/imgs/floating_point.png",
-    "CS_APP_organize/chapter2/imgs/floating_point_range.png",
-    "CS_APP_organize/chapter2/2.1-Infomation_Storage.md",
-    "CS_APP_organize/chapter2/2.2-Integer_Representations.md",
-    "CS_APP_organize/chapter2/2.3-Integer_Arithmetic.md",
-    "CS_APP_organize/chapter2/2.4-Floating_Points.md",
-    "CS_APP_organize/ch1-A_Tour_of_Computer_Systems.md",
-    "CS_APP_organize/ch2-Representing_and_Manipulating_Info.md",
+    "articles/chapter1/imgs/abstractions_provided_by_os.png",
+    "articles/chapter1/imgs/process_virtual_address_space.png",
+    "articles/chapter1/1.1-Info=Bits+Context.md",
+    "articles/chapter1/1.2-Translate_Program.md",
+    "articles/chapter1/1.3-Importance_of_Understanding_Compiler.md",
+    "articles/chapter1/1.4-Proccessor_reads_Instruction_in_Memory.md",
+    "articles/chapter1/1.5-Cache_is_important.md",
+    "articles/chapter1/1.6-Hierarchy_of_Memory.md",
+    "articles/chapter1/1.7-OS_manage_Hardware.md",
+    "articles/chapter1/1.8-System_communicate_System_with_Network.md",
+    "articles/chapter1/1.9-Other_important_Themes.md",
+    "articles/chapter1/1.10-Summary.md",
+    "articles/chapter2/imgs/floating_point.png",
+    "articles/chapter2/imgs/floating_point_range.png",
+    "articles/chapter2/2.1-Infomation_Storage.md",
+    "articles/chapter2/2.2-Integer_Representations.md",
+    "articles/chapter2/2.3-Integer_Arithmetic.md",
+    "articles/chapter2/2.4-Floating_Points.md",
+    "articles/ch1-A_Tour_of_Computer_Systems.md",
+    "articles/ch2-Representing_and_Manipulating_Info.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -136,470 +136,446 @@
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
-    "CS_APP_organize/chapter1/imgs/abstractions_provided_by_os.png": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter1/imgs/abstractions_provided_by_os.png": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 17977,
-      "exportedPath": "cs_app_organize/chapter1/imgs/abstractions_provided_by_os.png",
+      "exportedPath": "articles/chapter1/imgs/abstractions_provided_by_os.png",
       "dependencies": []
     },
-    "CS_APP_organize/chapter1/imgs/process_virtual_address_space.png": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter1/imgs/process_virtual_address_space.png": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 226938,
-      "exportedPath": "cs_app_organize/chapter1/imgs/process_virtual_address_space.png",
+      "exportedPath": "articles/chapter1/imgs/process_virtual_address_space.png",
       "dependencies": []
     },
-    "CS_APP_organize/chapter1/1.1-Info=Bits+Context.md": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter1/1.1-Info=Bits+Context.md": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 775,
-      "exportedPath": "cs_app_organize/chapter1/1.1-info=bits+context.html",
+      "exportedPath": "articles/chapter1/1.1-info=bits+context.html",
       "dependencies": []
     },
-    "CS_APP_organize/chapter1/1.2-Translate_Program.md": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter1/1.2-Translate_Program.md": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 1552,
-      "exportedPath": "cs_app_organize/chapter1/1.2-translate_program.html",
+      "exportedPath": "articles/chapter1/1.2-translate_program.html",
       "dependencies": []
     },
-    "CS_APP_organize/chapter1/1.3-Importance_of_Understanding_Compiler.md": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter1/1.3-Importance_of_Understanding_Compiler.md": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 181,
-      "exportedPath": "cs_app_organize/chapter1/1.3-importance_of_understanding_compiler.html",
+      "exportedPath": "articles/chapter1/1.3-importance_of_understanding_compiler.html",
       "dependencies": []
     },
-    "CS_APP_organize/chapter1/1.4-Proccessor_reads_Instruction_in_Memory.md": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter1/1.4-Proccessor_reads_Instruction_in_Memory.md": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 5568,
-      "exportedPath": "cs_app_organize/chapter1/1.4-proccessor_reads_instruction_in_memory.html",
+      "exportedPath": "articles/chapter1/1.4-proccessor_reads_instruction_in_memory.html",
       "dependencies": []
     },
-    "CS_APP_organize/chapter1/1.5-Cache_is_important.md": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 629,
-      "exportedPath": "cs_app_organize/chapter1/1.5-cache_is_important.html",
+    "articles/chapter1/1.5-Cache_is_important.md": {
+      "modifiedTime": 1744260177792,
+      "sourceSize": 647,
+      "exportedPath": "articles/chapter1/1.5-cache_is_important.html",
       "dependencies": []
     },
-    "CS_APP_organize/chapter1/1.6-Hierarchy_of_Memory.md": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter1/1.6-Hierarchy_of_Memory.md": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 944,
-      "exportedPath": "cs_app_organize/chapter1/1.6-hierarchy_of_memory.html",
+      "exportedPath": "articles/chapter1/1.6-hierarchy_of_memory.html",
       "dependencies": []
     },
-    "CS_APP_organize/chapter1/1.7-OS_manage_Hardware.md": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 10369,
-      "exportedPath": "cs_app_organize/chapter1/1.7-os_manage_hardware.html",
+    "articles/chapter1/1.7-OS_manage_Hardware.md": {
+      "modifiedTime": 1744260177792,
+      "sourceSize": 10415,
+      "exportedPath": "articles/chapter1/1.7-os_manage_hardware.html",
       "dependencies": [
-        "cs_app_organize/chapter1/imgs/abstractions_provided_by_os.png",
-        "cs_app_organize/chapter1/imgs/process_virtual_address_space.png"
+        "articles/chapter1/imgs/abstractions_provided_by_os.png",
+        "articles/chapter1/imgs/process_virtual_address_space.png"
       ]
     },
-    "CS_APP_organize/chapter1/1.8-System_communicate_System_with_Network.md": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter1/1.8-System_communicate_System_with_Network.md": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 657,
-      "exportedPath": "cs_app_organize/chapter1/1.8-system_communicate_system_with_network.html",
+      "exportedPath": "articles/chapter1/1.8-system_communicate_system_with_network.html",
       "dependencies": []
     },
-    "CS_APP_organize/chapter1/1.9-Other_important_Themes.md": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 6844,
-      "exportedPath": "cs_app_organize/chapter1/1.9-other_important_themes.html",
+    "articles/chapter1/1.9-Other_important_Themes.md": {
+      "modifiedTime": 1744260177792,
+      "sourceSize": 6862,
+      "exportedPath": "articles/chapter1/1.9-other_important_themes.html",
       "dependencies": []
     },
-    "CS_APP_organize/chapter1/1.10-Summary.md": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter1/1.10-Summary.md": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 1910,
-      "exportedPath": "cs_app_organize/chapter1/1.10-summary.html",
+      "exportedPath": "articles/chapter1/1.10-summary.html",
       "dependencies": []
     },
-    "CS_APP_organize/chapter2/imgs/floating_point.png": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter2/imgs/floating_point.png": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 377547,
-      "exportedPath": "cs_app_organize/chapter2/imgs/floating_point.png",
+      "exportedPath": "articles/chapter2/imgs/floating_point.png",
       "dependencies": []
     },
-    "CS_APP_organize/chapter2/imgs/floating_point_range.png": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter2/imgs/floating_point_range.png": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 272031,
-      "exportedPath": "cs_app_organize/chapter2/imgs/floating_point_range.png",
+      "exportedPath": "articles/chapter2/imgs/floating_point_range.png",
       "dependencies": []
     },
-    "CS_APP_organize/chapter2/2.1-Infomation_Storage.md": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter2/2.1-Infomation_Storage.md": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 11093,
-      "exportedPath": "cs_app_organize/chapter2/2.1-infomation_storage.html",
+      "exportedPath": "articles/chapter2/2.1-infomation_storage.html",
       "dependencies": []
     },
-    "CS_APP_organize/chapter2/2.2-Integer_Representations.md": {
-      "modifiedTime": 1744259519041,
+    "articles/chapter2/2.2-Integer_Representations.md": {
+      "modifiedTime": 1744260177792,
       "sourceSize": 14138,
-      "exportedPath": "cs_app_organize/chapter2/2.2-integer_representations.html",
+      "exportedPath": "articles/chapter2/2.2-integer_representations.html",
       "dependencies": []
     },
-    "CS_APP_organize/chapter2/2.3-Integer_Arithmetic.md": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 14857,
-      "exportedPath": "cs_app_organize/chapter2/2.3-integer_arithmetic.html",
+    "articles/chapter2/2.3-Integer_Arithmetic.md": {
+      "modifiedTime": 1744260177792,
+      "sourceSize": 14875,
+      "exportedPath": "articles/chapter2/2.3-integer_arithmetic.html",
       "dependencies": []
     },
-    "CS_APP_organize/chapter2/2.4-Floating_Points.md": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 5423,
-      "exportedPath": "cs_app_organize/chapter2/2.4-floating_points.html",
+    "articles/chapter2/2.4-Floating_Points.md": {
+      "modifiedTime": 1744260177792,
+      "sourceSize": 5469,
+      "exportedPath": "articles/chapter2/2.4-floating_points.html",
       "dependencies": [
-        "cs_app_organize/chapter2/imgs/floating_point.png",
-        "cs_app_organize/chapter2/imgs/floating_point_range.png"
+        "articles/chapter2/imgs/floating_point.png",
+        "articles/chapter2/imgs/floating_point_range.png"
       ]
     },
-    "CS_APP_organize/ch1-A_Tour_of_Computer_Systems.md": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 609,
-      "exportedPath": "cs_app_organize/ch1-a_tour_of_computer_systems.html",
+    "articles/ch1-A_Tour_of_Computer_Systems.md": {
+      "modifiedTime": 1744260177792,
+      "sourceSize": 789,
+      "exportedPath": "articles/ch1-a_tour_of_computer_systems.html",
       "dependencies": []
     },
-    "CS_APP_organize/ch2-Representing_and_Manipulating_Info.md": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 1938,
-      "exportedPath": "cs_app_organize/ch2-representing_and_manipulating_info.html",
-      "dependencies": []
-    },
-    "cs_app_organize/chapter1/imgs/abstractions_provided_by_os.png": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 17977,
-      "exportedPath": "cs_app_organize/chapter1/imgs/abstractions_provided_by_os.png",
-      "dependencies": []
-    },
-    "cs_app_organize/chapter1/imgs/process_virtual_address_space.png": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 226938,
-      "exportedPath": "cs_app_organize/chapter1/imgs/process_virtual_address_space.png",
-      "dependencies": []
-    },
-    "cs_app_organize/chapter2/imgs/floating_point.png": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 377547,
-      "exportedPath": "cs_app_organize/chapter2/imgs/floating_point.png",
-      "dependencies": []
-    },
-    "cs_app_organize/chapter2/imgs/floating_point_range.png": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 272031,
-      "exportedPath": "cs_app_organize/chapter2/imgs/floating_point_range.png",
+    "articles/ch2-Representing_and_Manipulating_Info.md": {
+      "modifiedTime": 1744260177792,
+      "sourceSize": 2010,
+      "exportedPath": "articles/ch2-representing_and_manipulating_info.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 21395,
+      "modifiedTime": 1744260177792,
+      "sourceSize": 21248,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1744259519041,
-      "sourceSize": 1834,
+      "modifiedTime": 1744260177792,
+      "sourceSize": 1722,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 137466,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 271569,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 606,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 135,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1744259519041,
+      "modifiedTime": 1744260177792,
       "sourceSize": 25499,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
