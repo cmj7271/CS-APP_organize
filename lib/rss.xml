@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>obsidian</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 01 May 2025 12:54:25 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 01 May 2025 12:54:12 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[1.1 정보는 비트와 컨텍스트로 이루어진다]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>obsidian</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 01 May 2025 14:51:38 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 01 May 2025 14:51:26 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[1.1 정보는 비트와 컨텍스트로 이루어진다]]></title><description><![CDATA[ 
  <br><br>텍스트는 비트로 이루어지며, 그 내용은 해석에 따라 달라진다.<br>
 즉, 컨텍스트에 따라 달라진다.<br>예시를 들자면, 숫자에 대한 해석이 있다. 일련의 비트를 "정수"로 해석하는지, "실수"로 해석하는지에 따라 그 값이 달라진다. 텍스트의 경우에는 아스키코드로 해석하거나, 유니코드로 해석하냐에 따라 달라질 수 있다.<br>간단하게, 0000...1000001 는 무엇인가?<br>
 가장 간단하게는 65, 또는 "A", 소수라고 생각하고 부동소수점으로도 생각해볼 수 있다.<br>JS의 실행 컨텍스트<br>
@@ -34,7 +34,7 @@ PC 는 기계어 명령어를 가리키고 있다.<br>
 프로세서는 전원이 공급되는 순간부터 계속 다음과 같은 행위를 반복한다.<br>
 <br>PC 가 가르키는 명령어를 수행한다.
 <br>PC 값을 다음으로 업데이트한다.
-<br>PC가 가르키는 명령어, 즉 인스트럭션은 인스트럭션 집합 구조(Instruction Set Architecture) 로 정의된다.<a data-footref="isa_각주" href="about:blank#fn-1-b384f593589fb215" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a><br>
+<br>PC가 가르키는 명령어, 즉 인스트럭션은 인스트럭션 집합 구조(Instruction Set Architecture) 로 정의된다.<a data-footref="isa_각주" href="about:blank#fn-1-1635671563c020f6" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a><br>
 하나의 인스트럭션은 규칙적으로 실행되며, 여러 단계를 거칠 수도 있다.<br>
 업데이트되는 다음의 PC 값은 메모리상 연속일수도, 아닐수도 있다.<br>
 프로세서가 실행하는 인스트럭션을 쪼갠 단순한 동작은 메인 메모리, 레지스터 파일, 수식/논리 처리기(ALU) 을 순환한다.<br>
@@ -65,7 +65,7 @@ hello 실행파일을 실행한다<br>
 
 <br>실행 과정을 살펴보며 알 수 있는 점은 단순한 프로그램에도 하드웨어 간의 이동이 굉장히 많다. 라는 것이다.<br>
 <br>
-<br>ISA는 마이크로프로세서가 인식할 수 있는 기계어 명령어들의 집합을 의미하며, CPU 같이 ISA 에 규정된 명령어를 실행하는 물리적 장치를 ISA 의 구현체라고 불린다. <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Instruction_set_architecture" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Instruction_set_architecture" target="_blank">wikipedia 참고</a><a href="about:blank#fnref-1-b384f593589fb215" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+<br>ISA는 마이크로프로세서가 인식할 수 있는 기계어 명령어들의 집합을 의미하며, CPU 같이 ISA 에 규정된 명령어를 실행하는 물리적 장치를 ISA 의 구현체라고 불린다. <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Instruction_set_architecture" rel="noopener nofollow" class="external-link" href="https://en.wikipedia.org/wiki/Instruction_set_architecture" target="_blank">wikipedia 참고</a><a href="about:blank#fnref-1-1635671563c020f6" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
 ]]></description><link>articles/chapter1/1.4-proccessor_reads_instruction_in_memory.html</link><guid isPermaLink="false">articles/chapter1/1.4-Proccessor_reads_Instruction_in_Memory.md</guid><pubDate>Thu, 01 May 2025 12:51:21 GMT</pubDate></item><item><title><![CDATA[1.5 캐시가 중요하다]]></title><description><![CDATA[ 
  <br><br><a data-href="PARA/Project/CS_APP_organize/chapter1/1.4-Proccessor_reads_Instruction_in_Memory#1.4.2 `hello` 프로그램의 실행" href="para/project/cs_app_organize/chapter1/1.4-proccessor_reads_instruction_in_memory.html#1.4.2_`hello`_프로그램의_실행" class="internal-link" target="_self" rel="noopener nofollow">PARA/Project/CS_APP_organize/chapter1/1.4-Proccessor_reads_Instruction_in_Memory &gt; 1.4.2 `hello` 프로그램의 실행</a> 의 마지막 내용처럼<br>Cation
 하드웨어 간의 이동에 많은 시간을 사용한다는 것이다.
