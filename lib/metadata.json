@@ -1,6 +1,6 @@
 {
   "vaultName": "books",
-  "lastExport": 1749271748015,
+  "lastExport": 1749272063861,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title show-ribbon minimal-atom-light minimal-atom-dark minimal-readable links-int-on links-ext-on full-width-media trim-cols anp-theme-ext-light anp-theme-ext-dark anp-theme-ext-amoled ctp-luminescence-light ctp-dracula",
   "useCustomHeadContent": false,
@@ -198,55 +198,55 @@
   ],
   "fileInfo": {
     "articles/chapter1/imgs/abstractions_provided_by_os.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 17977,
       "exportedPath": "articles/chapter1/imgs/abstractions_provided_by_os.png",
       "dependencies": []
     },
     "articles/chapter1/imgs/process_virtual_address_space.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 226938,
       "exportedPath": "articles/chapter1/imgs/process_virtual_address_space.png",
       "dependencies": []
     },
     "articles/chapter1/1.1-Info=Bits+Context.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 775,
       "exportedPath": "articles/chapter1/1.1-info=bits+context.html",
       "dependencies": []
     },
     "articles/chapter1/1.2-Translate_Program.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1552,
       "exportedPath": "articles/chapter1/1.2-translate_program.html",
       "dependencies": []
     },
     "articles/chapter1/1.3-Importance_of_Understanding_Compiler.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 181,
       "exportedPath": "articles/chapter1/1.3-importance_of_understanding_compiler.html",
       "dependencies": []
     },
     "articles/chapter1/1.4-Proccessor_reads_Instruction_in_Memory.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 5568,
       "exportedPath": "articles/chapter1/1.4-proccessor_reads_instruction_in_memory.html",
       "dependencies": []
     },
     "articles/chapter1/1.5-Cache_is_important.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 667,
       "exportedPath": "articles/chapter1/1.5-cache_is_important.html",
       "dependencies": []
     },
     "articles/chapter1/1.6-Hierarchy_of_Memory.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 944,
       "exportedPath": "articles/chapter1/1.6-hierarchy_of_memory.html",
       "dependencies": []
     },
     "articles/chapter1/1.7-OS_manage_Hardware.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 10455,
       "exportedPath": "articles/chapter1/1.7-os_manage_hardware.html",
       "dependencies": [
@@ -255,55 +255,55 @@
       ]
     },
     "articles/chapter1/1.8-System_communicate_System_with_Network.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 657,
       "exportedPath": "articles/chapter1/1.8-system_communicate_system_with_network.html",
       "dependencies": []
     },
     "articles/chapter1/1.9-Other_important_Themes.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 6882,
       "exportedPath": "articles/chapter1/1.9-other_important_themes.html",
       "dependencies": []
     },
     "articles/chapter1/1.10-Summary.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1910,
       "exportedPath": "articles/chapter1/1.10-summary.html",
       "dependencies": []
     },
     "articles/chapter2/imgs/floating_point.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 377547,
       "exportedPath": "articles/chapter2/imgs/floating_point.png",
       "dependencies": []
     },
     "articles/chapter2/imgs/floating_point_range.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 272031,
       "exportedPath": "articles/chapter2/imgs/floating_point_range.png",
       "dependencies": []
     },
     "articles/chapter2/2.1-Infomation_Storage.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 11093,
       "exportedPath": "articles/chapter2/2.1-infomation_storage.html",
       "dependencies": []
     },
     "articles/chapter2/2.2-Integer_Representations.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 14137,
       "exportedPath": "articles/chapter2/2.2-integer_representations.html",
       "dependencies": []
     },
     "articles/chapter2/2.3-Integer_Arithmetic.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 14895,
       "exportedPath": "articles/chapter2/2.3-integer_arithmetic.html",
       "dependencies": []
     },
     "articles/chapter2/2.4-Floating_Points.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 5509,
       "exportedPath": "articles/chapter2/2.4-floating_points.html",
       "dependencies": [
@@ -312,169 +312,169 @@
       ]
     },
     "articles/chapter6/imgs/4_bit_address_ex.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 199136,
       "exportedPath": "articles/chapter6/imgs/4_bit_address_ex.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/asso_cache.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 282700,
       "exportedPath": "articles/chapter6/imgs/asso_cache.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/bus_structure.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 155487,
       "exportedPath": "articles/chapter6/imgs/bus_structure.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/cache_0.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 40149,
       "exportedPath": "articles/chapter6/imgs/cache_0.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/cache_1.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 36264,
       "exportedPath": "articles/chapter6/imgs/cache_1.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/cache_2.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 43239,
       "exportedPath": "articles/chapter6/imgs/cache_2.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/cache_3.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 51282,
       "exportedPath": "articles/chapter6/imgs/cache_3.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/cache_4.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 41962,
       "exportedPath": "articles/chapter6/imgs/cache_4.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/conflict_miss_ex.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 112623,
       "exportedPath": "articles/chapter6/imgs/conflict_miss_ex.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/direct_mapped_cache.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 142943,
       "exportedPath": "articles/chapter6/imgs/direct_mapped_cache.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/DRAM_ex.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 404745,
       "exportedPath": "articles/chapter6/imgs/dram_ex.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/DRAM_view.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 211629,
       "exportedPath": "articles/chapter6/imgs/dram_view.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/DRAM_VS_SRAM.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 129467,
       "exportedPath": "articles/chapter6/imgs/dram_vs_sram.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/full_asso_cache.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 167492,
       "exportedPath": "articles/chapter6/imgs/full_asso_cache.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/i7_ex.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 405217,
       "exportedPath": "articles/chapter6/imgs/i7_ex.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/inverted_pendulum.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 160871,
       "exportedPath": "articles/chapter6/imgs/inverted_pendulum.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/line_match_in_asso_cache.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 295268,
       "exportedPath": "articles/chapter6/imgs/line_match_in_asso_cache.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/line_matching.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 278871,
       "exportedPath": "articles/chapter6/imgs/line_matching.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/many_cache.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 389839,
       "exportedPath": "articles/chapter6/imgs/many_cache.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/memory_hierarchy.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 313644,
       "exportedPath": "articles/chapter6/imgs/memory_hierarchy.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/memory_module.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 452975,
       "exportedPath": "articles/chapter6/imgs/memory_module.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/organization_of_cache.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 461296,
       "exportedPath": "articles/chapter6/imgs/organization_of_cache.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/padding_ex.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 108965,
       "exportedPath": "articles/chapter6/imgs/padding_ex.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/principle_of_memory_hierarchy.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 182976,
       "exportedPath": "articles/chapter6/imgs/principle_of_memory_hierarchy.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/set_selection.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 184936,
       "exportedPath": "articles/chapter6/imgs/set_selection.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/summary_of_cache_parameters.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 234399,
       "exportedPath": "articles/chapter6/imgs/summary_of_cache_parameters.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/why_cache_has_middle_index.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 311065,
       "exportedPath": "articles/chapter6/imgs/why_cache_has_middle_index.png",
       "dependencies": []
     },
     "articles/chapter6/6.1-Storage_Technologies.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 12373,
       "exportedPath": "articles/chapter6/6.1-storage_technologies.html",
       "dependencies": [
@@ -487,13 +487,13 @@
       ]
     },
     "articles/chapter6/6.2-Locality.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 5004,
       "exportedPath": "articles/chapter6/6.2-locality.html",
       "dependencies": []
     },
     "articles/chapter6/6.3-The_Memory_Hierarchy.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 7688,
       "exportedPath": "articles/chapter6/6.3-the_memory_hierarchy.html",
       "dependencies": [
@@ -503,7 +503,7 @@
       ]
     },
     "articles/chapter6/6.4-Cache_Memories.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 19517,
       "exportedPath": "articles/chapter6/6.4-cache_memories.html",
       "dependencies": [
@@ -528,37 +528,37 @@
       ]
     },
     "articles/chapter6/6.5-Writing_Cache_Friendly_Code.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 910,
       "exportedPath": "articles/chapter6/6.5-writing_cache_friendly_code.html",
       "dependencies": []
     },
     "articles/chapter7/imgs/ELF_relocatble_obj.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 162495,
       "exportedPath": "articles/chapter7/imgs/elf_relocatble_obj.png",
       "dependencies": []
     },
     "articles/chapter7/imgs/ELF_Symbol_Table.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 314906,
       "exportedPath": "articles/chapter7/imgs/elf_symbol_table.png",
       "dependencies": []
     },
     "articles/chapter7/imgs/Linking_with_static_libraries.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 180393,
       "exportedPath": "articles/chapter7/imgs/linking_with_static_libraries.png",
       "dependencies": []
     },
     "articles/chapter7/imgs/static_linking.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 173403,
       "exportedPath": "articles/chapter7/imgs/static_linking.png",
       "dependencies": []
     },
     "articles/chapter7/7.1-Compiler_Drivers.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1651,
       "exportedPath": "articles/chapter7/7.1-compiler_drivers.html",
       "dependencies": [
@@ -566,19 +566,19 @@
       ]
     },
     "articles/chapter7/7.2-Static_Linking.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1797,
       "exportedPath": "articles/chapter7/7.2-static_linking.html",
       "dependencies": []
     },
     "articles/chapter7/7.3-Object_Files.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1100,
       "exportedPath": "articles/chapter7/7.3-object_files.html",
       "dependencies": []
     },
     "articles/chapter7/7.4-Relocatable_Object_Files.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 3590,
       "exportedPath": "articles/chapter7/7.4-relocatable_object_files.html",
       "dependencies": [
@@ -586,7 +586,7 @@
       ]
     },
     "articles/chapter7/7.5-Symbols_and-Symbol_Tables.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 4164,
       "exportedPath": "articles/chapter7/7.5-symbols_and-symbol_tables.html",
       "dependencies": [
@@ -594,7 +594,7 @@
       ]
     },
     "articles/chapter7/7.6-Symbol_Resolution.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 12129,
       "exportedPath": "articles/chapter7/7.6-symbol_resolution.html",
       "dependencies": [
@@ -602,127 +602,127 @@
       ]
     },
     "articles/chapter9/imgs/address_trans.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 192276,
       "exportedPath": "articles/chapter9/imgs/address_trans.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/address_translation_symbols.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 165604,
       "exportedPath": "articles/chapter9/imgs/address_translation_symbols.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/allocate_page.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 397365,
       "exportedPath": "articles/chapter9/imgs/allocate_page.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/k_level_address_trans.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 132756,
       "exportedPath": "articles/chapter9/imgs/k_level_address_trans.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/memory_protection.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 248196,
       "exportedPath": "articles/chapter9/imgs/memory_protection.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/page_fault.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 899089,
       "exportedPath": "articles/chapter9/imgs/page_fault.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/page_hit.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 386754,
       "exportedPath": "articles/chapter9/imgs/page_hit.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/page_hit_detail.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 85350,
       "exportedPath": "articles/chapter9/imgs/page_hit_detail.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/page_miss_ex.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 246528,
       "exportedPath": "articles/chapter9/imgs/page_miss_ex.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/page_table.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 408855,
       "exportedPath": "articles/chapter9/imgs/page_table.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/physical_address.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 135394,
       "exportedPath": "articles/chapter9/imgs/physical_address.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/separate_address_space.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 317240,
       "exportedPath": "articles/chapter9/imgs/separate_address_space.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/sharing.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 121009,
       "exportedPath": "articles/chapter9/imgs/sharing.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/TLB_Hit.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 134057,
       "exportedPath": "articles/chapter9/imgs/tlb_hit.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/TLB_index.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 66191,
       "exportedPath": "articles/chapter9/imgs/tlb_index.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/TLB_Miss.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 98911,
       "exportedPath": "articles/chapter9/imgs/tlb_miss.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/two_level_page.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 394044,
       "exportedPath": "articles/chapter9/imgs/two_level_page.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/virtual_address.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 216576,
       "exportedPath": "articles/chapter9/imgs/virtual_address.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/VM_and_Cache.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 196333,
       "exportedPath": "articles/chapter9/imgs/vm_and_cache.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/VM_ex.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 344934,
       "exportedPath": "articles/chapter9/imgs/vm_ex.png",
       "dependencies": []
     },
     "articles/chapter9/9.1-Physical_and_Virtual_Addressing.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1396,
       "exportedPath": "articles/chapter9/9.1-physical_and_virtual_addressing.html",
       "dependencies": [
@@ -731,13 +731,13 @@
       ]
     },
     "articles/chapter9/9.2-Address_Spaces.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1596,
       "exportedPath": "articles/chapter9/9.2-address_spaces.html",
       "dependencies": []
     },
     "articles/chapter9/9.3-VM_as_a_Tool_for_Caching.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 7504,
       "exportedPath": "articles/chapter9/9.3-vm_as_a_tool_for_caching.html",
       "dependencies": [
@@ -749,7 +749,7 @@
       ]
     },
     "articles/chapter9/9.4-VM_as_a_Tool_for_Memory_Management.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 3563,
       "exportedPath": "articles/chapter9/9.4-vm_as_a_tool_for_memory_management.html",
       "dependencies": [
@@ -758,7 +758,7 @@
       ]
     },
     "articles/chapter9/9.5-VM_as_a_Tool_for_Memory_Protection.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1473,
       "exportedPath": "articles/chapter9/9.5-vm_as_a_tool_for_memory_protection.html",
       "dependencies": [
@@ -766,7 +766,7 @@
       ]
     },
     "articles/chapter9/9.6-Address_Translation.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 8413,
       "exportedPath": "articles/chapter9/9.6-address_translation.html",
       "dependencies": [
@@ -783,397 +783,397 @@
       ]
     },
     "articles/ch1-A_Tour_of_Computer_Systems.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1070,
       "exportedPath": "articles/ch1-a_tour_of_computer_systems.html",
       "dependencies": []
     },
     "articles/ch2-Representing_and_Manipulating_Info.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 2105,
       "exportedPath": "articles/ch2-representing_and_manipulating_info.html",
       "dependencies": []
     },
     "articles/ch6-The_Memory_Hierarchy.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 2340,
       "exportedPath": "articles/ch6-the_memory_hierarchy.html",
       "dependencies": []
     },
     "articles/ch7-Linking.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 3666,
       "exportedPath": "articles/ch7-linking.html",
       "dependencies": []
     },
     "articles/ch9-Virtual_Memory.md": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 3426,
       "exportedPath": "articles/ch9-virtual_memory.html",
       "dependencies": []
     },
     "lib/media/abstractions_provided_by_os.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 17977,
       "exportedPath": "lib/media/abstractions_provided_by_os.png",
       "dependencies": []
     },
     "lib/media/process_virtual_address_space.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 226938,
       "exportedPath": "lib/media/process_virtual_address_space.png",
       "dependencies": []
     },
     "lib/media/floating_point.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 377547,
       "exportedPath": "lib/media/floating_point.png",
       "dependencies": []
     },
     "lib/media/floating_point_range.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 272031,
       "exportedPath": "lib/media/floating_point_range.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/dram_vs_sram.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 129467,
       "exportedPath": "articles/chapter6/imgs/dram_vs_sram.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/dram_view.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 211629,
       "exportedPath": "articles/chapter6/imgs/dram_view.png",
       "dependencies": []
     },
     "articles/chapter6/imgs/dram_ex.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 404745,
       "exportedPath": "articles/chapter6/imgs/dram_ex.png",
       "dependencies": []
     },
     "lib/media/static_linking.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 173403,
       "exportedPath": "lib/media/static_linking.png",
       "dependencies": []
     },
     "lib/media/elf_relocatble_obj.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 162495,
       "exportedPath": "lib/media/elf_relocatble_obj.png",
       "dependencies": []
     },
     "articles/chapter7/imgs/elf_symbol_table.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 314906,
       "exportedPath": "articles/chapter7/imgs/elf_symbol_table.png",
       "dependencies": []
     },
     "articles/chapter7/imgs/linking_with_static_libraries.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 180393,
       "exportedPath": "articles/chapter7/imgs/linking_with_static_libraries.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/vm_ex.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 344934,
       "exportedPath": "articles/chapter9/imgs/vm_ex.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/vm_and_cache.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 196333,
       "exportedPath": "articles/chapter9/imgs/vm_and_cache.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/tlb_index.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 66191,
       "exportedPath": "articles/chapter9/imgs/tlb_index.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/tlb_hit.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 134057,
       "exportedPath": "articles/chapter9/imgs/tlb_hit.png",
       "dependencies": []
     },
     "articles/chapter9/imgs/tlb_miss.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 98911,
       "exportedPath": "articles/chapter9/imgs/tlb_miss.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 85776,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 225163,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 507,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1749271748015,
+      "modifiedTime": 1749272063861,
       "sourceSize": 25499,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
