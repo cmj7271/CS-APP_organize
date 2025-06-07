@@ -1,102 +1,108 @@
 {
   "vaultName": "books",
-  "lastExport": 1749271344223,
+  "lastExport": 1749271748015,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title show-ribbon minimal-atom-light minimal-atom-dark minimal-readable links-int-on links-ext-on full-width-media trim-cols anp-theme-ext-light anp-theme-ext-dark anp-theme-ext-amoled ctp-luminescence-light ctp-dracula",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "PARA/Project/CS_APP_organize/chapter1/imgs/abstractions_provided_by_os.png",
-    "PARA/Project/CS_APP_organize/chapter1/imgs/process_virtual_address_space.png",
-    "PARA/Project/CS_APP_organize/chapter1/1.1-Info=Bits+Context.md",
-    "PARA/Project/CS_APP_organize/chapter1/1.2-Translate_Program.md",
-    "PARA/Project/CS_APP_organize/chapter1/1.3-Importance_of_Understanding_Compiler.md",
-    "PARA/Project/CS_APP_organize/chapter1/1.4-Proccessor_reads_Instruction_in_Memory.md",
-    "PARA/Project/CS_APP_organize/chapter1/1.5-Cache_is_important.md",
-    "PARA/Project/CS_APP_organize/chapter1/1.6-Hierarchy_of_Memory.md",
-    "PARA/Project/CS_APP_organize/chapter1/1.7-OS_manage_Hardware.md",
-    "PARA/Project/CS_APP_organize/chapter1/1.8-System_communicate_System_with_Network.md",
-    "PARA/Project/CS_APP_organize/chapter1/1.9-Other_important_Themes.md",
-    "PARA/Project/CS_APP_organize/chapter1/1.10-Summary.md",
-    "PARA/Project/CS_APP_organize/chapter2/imgs/floating_point.png",
-    "PARA/Project/CS_APP_organize/chapter2/imgs/floating_point_range.png",
-    "PARA/Project/CS_APP_organize/chapter2/2.1-Infomation_Storage.md",
-    "PARA/Project/CS_APP_organize/chapter2/2.2-Integer_Representations.md",
-    "PARA/Project/CS_APP_organize/chapter2/2.3-Integer_Arithmetic.md",
-    "PARA/Project/CS_APP_organize/chapter2/2.4-Floating_Points.md",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/4_bit_address_ex.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/asso_cache.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/bus_structure.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/cache_0.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/cache_1.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/cache_2.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/cache_3.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/cache_4.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/conflict_miss_ex.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/direct_mapped_cache.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/DRAM_ex.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/DRAM_view.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/DRAM_VS_SRAM.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/full_asso_cache.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/i7_ex.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/inverted_pendulum.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/line_match_in_asso_cache.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/line_matching.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/many_cache.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/memory_hierarchy.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/memory_module.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/organization_of_cache.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/padding_ex.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/principle_of_memory_hierarchy.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/set_selection.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/summary_of_cache_parameters.png",
-    "PARA/Project/CS_APP_organize/chapter6/imgs/why_cache_has_middle_index.png",
-    "PARA/Project/CS_APP_organize/chapter6/6.1-Storage_Technologies.md",
-    "PARA/Project/CS_APP_organize/chapter6/6.2-Locality.md",
-    "PARA/Project/CS_APP_organize/chapter6/6.3-The_Memory_Hierarchy.md",
-    "PARA/Project/CS_APP_organize/chapter6/6.4-Cache_Memories.md",
-    "PARA/Project/CS_APP_organize/chapter6/6.5-Writing_Cache_Friendly_Code.md",
-    "PARA/Project/CS_APP_organize/chapter7/imgs/ELF_relocatble_obj.png",
-    "PARA/Project/CS_APP_organize/chapter7/imgs/ELF_Symbol_Table.png",
-    "PARA/Project/CS_APP_organize/chapter7/imgs/Linking_with_static_libraries.png",
-    "PARA/Project/CS_APP_organize/chapter7/imgs/static_linking.png",
-    "PARA/Project/CS_APP_organize/chapter7/7.1-Compiler_Drivers.md",
-    "PARA/Project/CS_APP_organize/chapter7/7.2-Static_Linking.md",
-    "PARA/Project/CS_APP_organize/chapter7/7.3-Object_Files.md",
-    "PARA/Project/CS_APP_organize/chapter7/7.4-Relocatable_Object_Files.md",
-    "PARA/Project/CS_APP_organize/chapter7/7.5-Symbols_and-Symbol_Tables.md",
-    "PARA/Project/CS_APP_organize/chapter7/7.6-Symbol_Resolution.md",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/address_trans.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/address_translation_symbols.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/allocate_page.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/k_level_address_trans.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/memory_protection.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/page_fault.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/page_hit.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/page_hit_detail.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/page_miss_ex.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/page_table.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/physical_address.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/separate_address_space.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/sharing.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/TLB_Hit.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/TLB_index.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/TLB_Miss.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/two_level_page.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/virtual_address.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/VM_and_Cache.png",
-    "PARA/Project/CS_APP_organize/chapter9/imgs/VM_ex.png",
-    "PARA/Project/CS_APP_organize/chapter9/9.1-Physical_and_Virtual_Addressing.md",
-    "PARA/Project/CS_APP_organize/chapter9/9.2-Address_Spaces.md",
-    "PARA/Project/CS_APP_organize/chapter9/9.3-VM_as_a_Tool_for_Caching.md",
-    "PARA/Project/CS_APP_organize/chapter9/9.4-VM_as_a_Tool_for_Memory_Management.md",
-    "PARA/Project/CS_APP_organize/chapter9/9.5-VM_as_a_Tool_for_Memory_Protection.md",
-    "PARA/Project/CS_APP_organize/chapter9/9.6-Address_Translation.md",
-    "PARA/Project/CS_APP_organize/ch1-A_Tour_of_Computer_Systems.md",
-    "PARA/Project/CS_APP_organize/ch2-Representing_and_Manipulating_Info.md",
-    "PARA/Project/CS_APP_organize/ch6-The_Memory_Hierarchy.md",
-    "PARA/Project/CS_APP_organize/ch7-Linking.md",
-    "PARA/Project/CS_APP_organize/ch9-Virtual_Memory.md",
+    "articles/chapter1/imgs/abstractions_provided_by_os.png",
+    "articles/chapter1/imgs/process_virtual_address_space.png",
+    "articles/chapter1/1.1-Info=Bits+Context.md",
+    "articles/chapter1/1.2-Translate_Program.md",
+    "articles/chapter1/1.3-Importance_of_Understanding_Compiler.md",
+    "articles/chapter1/1.4-Proccessor_reads_Instruction_in_Memory.md",
+    "articles/chapter1/1.5-Cache_is_important.md",
+    "articles/chapter1/1.6-Hierarchy_of_Memory.md",
+    "articles/chapter1/1.7-OS_manage_Hardware.md",
+    "articles/chapter1/1.8-System_communicate_System_with_Network.md",
+    "articles/chapter1/1.9-Other_important_Themes.md",
+    "articles/chapter1/1.10-Summary.md",
+    "articles/chapter2/imgs/floating_point.png",
+    "articles/chapter2/imgs/floating_point_range.png",
+    "articles/chapter2/2.1-Infomation_Storage.md",
+    "articles/chapter2/2.2-Integer_Representations.md",
+    "articles/chapter2/2.3-Integer_Arithmetic.md",
+    "articles/chapter2/2.4-Floating_Points.md",
+    "articles/chapter6/imgs/4_bit_address_ex.png",
+    "articles/chapter6/imgs/asso_cache.png",
+    "articles/chapter6/imgs/bus_structure.png",
+    "articles/chapter6/imgs/cache_0.png",
+    "articles/chapter6/imgs/cache_1.png",
+    "articles/chapter6/imgs/cache_2.png",
+    "articles/chapter6/imgs/cache_3.png",
+    "articles/chapter6/imgs/cache_4.png",
+    "articles/chapter6/imgs/conflict_miss_ex.png",
+    "articles/chapter6/imgs/direct_mapped_cache.png",
+    "articles/chapter6/imgs/DRAM_ex.png",
+    "articles/chapter6/imgs/DRAM_view.png",
+    "articles/chapter6/imgs/DRAM_VS_SRAM.png",
+    "articles/chapter6/imgs/full_asso_cache.png",
+    "articles/chapter6/imgs/i7_ex.png",
+    "articles/chapter6/imgs/inverted_pendulum.png",
+    "articles/chapter6/imgs/line_match_in_asso_cache.png",
+    "articles/chapter6/imgs/line_matching.png",
+    "articles/chapter6/imgs/many_cache.png",
+    "articles/chapter6/imgs/memory_hierarchy.png",
+    "articles/chapter6/imgs/memory_module.png",
+    "articles/chapter6/imgs/organization_of_cache.png",
+    "articles/chapter6/imgs/padding_ex.png",
+    "articles/chapter6/imgs/principle_of_memory_hierarchy.png",
+    "articles/chapter6/imgs/set_selection.png",
+    "articles/chapter6/imgs/summary_of_cache_parameters.png",
+    "articles/chapter6/imgs/why_cache_has_middle_index.png",
+    "articles/chapter6/6.1-Storage_Technologies.md",
+    "articles/chapter6/6.2-Locality.md",
+    "articles/chapter6/6.3-The_Memory_Hierarchy.md",
+    "articles/chapter6/6.4-Cache_Memories.md",
+    "articles/chapter6/6.5-Writing_Cache_Friendly_Code.md",
+    "articles/chapter7/imgs/ELF_relocatble_obj.png",
+    "articles/chapter7/imgs/ELF_Symbol_Table.png",
+    "articles/chapter7/imgs/Linking_with_static_libraries.png",
+    "articles/chapter7/imgs/static_linking.png",
+    "articles/chapter7/7.1-Compiler_Drivers.md",
+    "articles/chapter7/7.2-Static_Linking.md",
+    "articles/chapter7/7.3-Object_Files.md",
+    "articles/chapter7/7.4-Relocatable_Object_Files.md",
+    "articles/chapter7/7.5-Symbols_and-Symbol_Tables.md",
+    "articles/chapter7/7.6-Symbol_Resolution.md",
+    "articles/chapter9/imgs/address_trans.png",
+    "articles/chapter9/imgs/address_translation_symbols.png",
+    "articles/chapter9/imgs/allocate_page.png",
+    "articles/chapter9/imgs/k_level_address_trans.png",
+    "articles/chapter9/imgs/memory_protection.png",
+    "articles/chapter9/imgs/page_fault.png",
+    "articles/chapter9/imgs/page_hit.png",
+    "articles/chapter9/imgs/page_hit_detail.png",
+    "articles/chapter9/imgs/page_miss_ex.png",
+    "articles/chapter9/imgs/page_table.png",
+    "articles/chapter9/imgs/physical_address.png",
+    "articles/chapter9/imgs/separate_address_space.png",
+    "articles/chapter9/imgs/sharing.png",
+    "articles/chapter9/imgs/TLB_Hit.png",
+    "articles/chapter9/imgs/TLB_index.png",
+    "articles/chapter9/imgs/TLB_Miss.png",
+    "articles/chapter9/imgs/two_level_page.png",
+    "articles/chapter9/imgs/virtual_address.png",
+    "articles/chapter9/imgs/VM_and_Cache.png",
+    "articles/chapter9/imgs/VM_ex.png",
+    "articles/chapter9/9.1-Physical_and_Virtual_Addressing.md",
+    "articles/chapter9/9.2-Address_Spaces.md",
+    "articles/chapter9/9.3-VM_as_a_Tool_for_Caching.md",
+    "articles/chapter9/9.4-VM_as_a_Tool_for_Memory_Management.md",
+    "articles/chapter9/9.5-VM_as_a_Tool_for_Memory_Protection.md",
+    "articles/chapter9/9.6-Address_Translation.md",
+    "articles/ch1-A_Tour_of_Computer_Systems.md",
+    "articles/ch2-Representing_and_Manipulating_Info.md",
+    "articles/ch6-The_Memory_Hierarchy.md",
+    "articles/ch7-Linking.md",
+    "articles/ch9-Virtual_Memory.md",
+    "lib/media/abstractions_provided_by_os.png",
+    "lib/media/process_virtual_address_space.png",
+    "lib/media/floating_point.png",
+    "lib/media/floating_point_range.png",
+    "lib/media/static_linking.png",
+    "lib/media/elf_relocatble_obj.png",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -191,1217 +197,983 @@
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
-    "PARA/Project/CS_APP_organize/chapter1/imgs/abstractions_provided_by_os.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter1/imgs/abstractions_provided_by_os.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 17977,
-      "exportedPath": "para/project/cs_app_organize/chapter1/imgs/abstractions_provided_by_os.png",
+      "exportedPath": "articles/chapter1/imgs/abstractions_provided_by_os.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter1/imgs/process_virtual_address_space.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter1/imgs/process_virtual_address_space.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 226938,
-      "exportedPath": "para/project/cs_app_organize/chapter1/imgs/process_virtual_address_space.png",
+      "exportedPath": "articles/chapter1/imgs/process_virtual_address_space.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter1/1.1-Info=Bits+Context.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter1/1.1-Info=Bits+Context.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 775,
-      "exportedPath": "para/project/cs_app_organize/chapter1/1.1-info=bits+context.html",
+      "exportedPath": "articles/chapter1/1.1-info=bits+context.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter1/1.2-Translate_Program.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter1/1.2-Translate_Program.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 1552,
-      "exportedPath": "para/project/cs_app_organize/chapter1/1.2-translate_program.html",
+      "exportedPath": "articles/chapter1/1.2-translate_program.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter1/1.3-Importance_of_Understanding_Compiler.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter1/1.3-Importance_of_Understanding_Compiler.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 181,
-      "exportedPath": "para/project/cs_app_organize/chapter1/1.3-importance_of_understanding_compiler.html",
+      "exportedPath": "articles/chapter1/1.3-importance_of_understanding_compiler.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter1/1.4-Proccessor_reads_Instruction_in_Memory.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter1/1.4-Proccessor_reads_Instruction_in_Memory.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 5568,
-      "exportedPath": "para/project/cs_app_organize/chapter1/1.4-proccessor_reads_instruction_in_memory.html",
+      "exportedPath": "articles/chapter1/1.4-proccessor_reads_instruction_in_memory.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter1/1.5-Cache_is_important.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter1/1.5-Cache_is_important.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 667,
-      "exportedPath": "para/project/cs_app_organize/chapter1/1.5-cache_is_important.html",
+      "exportedPath": "articles/chapter1/1.5-cache_is_important.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter1/1.6-Hierarchy_of_Memory.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter1/1.6-Hierarchy_of_Memory.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 944,
-      "exportedPath": "para/project/cs_app_organize/chapter1/1.6-hierarchy_of_memory.html",
+      "exportedPath": "articles/chapter1/1.6-hierarchy_of_memory.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter1/1.7-OS_manage_Hardware.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter1/1.7-OS_manage_Hardware.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 10455,
-      "exportedPath": "para/project/cs_app_organize/chapter1/1.7-os_manage_hardware.html",
+      "exportedPath": "articles/chapter1/1.7-os_manage_hardware.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter1/imgs/abstractions_provided_by_os.png",
-        "para/project/cs_app_organize/chapter1/imgs/process_virtual_address_space.png"
+        "lib/media/abstractions_provided_by_os.png",
+        "lib/media/process_virtual_address_space.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter1/1.8-System_communicate_System_with_Network.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter1/1.8-System_communicate_System_with_Network.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 657,
-      "exportedPath": "para/project/cs_app_organize/chapter1/1.8-system_communicate_system_with_network.html",
+      "exportedPath": "articles/chapter1/1.8-system_communicate_system_with_network.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter1/1.9-Other_important_Themes.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter1/1.9-Other_important_Themes.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 6882,
-      "exportedPath": "para/project/cs_app_organize/chapter1/1.9-other_important_themes.html",
+      "exportedPath": "articles/chapter1/1.9-other_important_themes.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter1/1.10-Summary.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter1/1.10-Summary.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 1910,
-      "exportedPath": "para/project/cs_app_organize/chapter1/1.10-summary.html",
+      "exportedPath": "articles/chapter1/1.10-summary.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter2/imgs/floating_point.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter2/imgs/floating_point.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 377547,
-      "exportedPath": "para/project/cs_app_organize/chapter2/imgs/floating_point.png",
+      "exportedPath": "articles/chapter2/imgs/floating_point.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter2/imgs/floating_point_range.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter2/imgs/floating_point_range.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 272031,
-      "exportedPath": "para/project/cs_app_organize/chapter2/imgs/floating_point_range.png",
+      "exportedPath": "articles/chapter2/imgs/floating_point_range.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter2/2.1-Infomation_Storage.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter2/2.1-Infomation_Storage.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 11093,
-      "exportedPath": "para/project/cs_app_organize/chapter2/2.1-infomation_storage.html",
+      "exportedPath": "articles/chapter2/2.1-infomation_storage.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter2/2.2-Integer_Representations.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter2/2.2-Integer_Representations.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 14137,
-      "exportedPath": "para/project/cs_app_organize/chapter2/2.2-integer_representations.html",
+      "exportedPath": "articles/chapter2/2.2-integer_representations.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter2/2.3-Integer_Arithmetic.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter2/2.3-Integer_Arithmetic.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 14895,
-      "exportedPath": "para/project/cs_app_organize/chapter2/2.3-integer_arithmetic.html",
+      "exportedPath": "articles/chapter2/2.3-integer_arithmetic.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter2/2.4-Floating_Points.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter2/2.4-Floating_Points.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 5509,
-      "exportedPath": "para/project/cs_app_organize/chapter2/2.4-floating_points.html",
+      "exportedPath": "articles/chapter2/2.4-floating_points.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter2/imgs/floating_point.png",
-        "para/project/cs_app_organize/chapter2/imgs/floating_point_range.png"
+        "lib/media/floating_point.png",
+        "lib/media/floating_point_range.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/4_bit_address_ex.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/4_bit_address_ex.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 199136,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/4_bit_address_ex.png",
+      "exportedPath": "articles/chapter6/imgs/4_bit_address_ex.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/asso_cache.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/asso_cache.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 282700,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/asso_cache.png",
+      "exportedPath": "articles/chapter6/imgs/asso_cache.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/bus_structure.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/bus_structure.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 155487,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/bus_structure.png",
+      "exportedPath": "articles/chapter6/imgs/bus_structure.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/cache_0.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/cache_0.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 40149,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/cache_0.png",
+      "exportedPath": "articles/chapter6/imgs/cache_0.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/cache_1.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/cache_1.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 36264,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/cache_1.png",
+      "exportedPath": "articles/chapter6/imgs/cache_1.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/cache_2.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/cache_2.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 43239,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/cache_2.png",
+      "exportedPath": "articles/chapter6/imgs/cache_2.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/cache_3.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/cache_3.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 51282,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/cache_3.png",
+      "exportedPath": "articles/chapter6/imgs/cache_3.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/cache_4.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/cache_4.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 41962,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/cache_4.png",
+      "exportedPath": "articles/chapter6/imgs/cache_4.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/conflict_miss_ex.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/conflict_miss_ex.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 112623,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/conflict_miss_ex.png",
+      "exportedPath": "articles/chapter6/imgs/conflict_miss_ex.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/direct_mapped_cache.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/direct_mapped_cache.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 142943,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/direct_mapped_cache.png",
+      "exportedPath": "articles/chapter6/imgs/direct_mapped_cache.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/DRAM_ex.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/DRAM_ex.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 404745,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/dram_ex.png",
+      "exportedPath": "articles/chapter6/imgs/dram_ex.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/DRAM_view.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/DRAM_view.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 211629,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/dram_view.png",
+      "exportedPath": "articles/chapter6/imgs/dram_view.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/DRAM_VS_SRAM.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/DRAM_VS_SRAM.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 129467,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/dram_vs_sram.png",
+      "exportedPath": "articles/chapter6/imgs/dram_vs_sram.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/full_asso_cache.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/full_asso_cache.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 167492,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/full_asso_cache.png",
+      "exportedPath": "articles/chapter6/imgs/full_asso_cache.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/i7_ex.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/i7_ex.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 405217,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/i7_ex.png",
+      "exportedPath": "articles/chapter6/imgs/i7_ex.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/inverted_pendulum.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/inverted_pendulum.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 160871,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/inverted_pendulum.png",
+      "exportedPath": "articles/chapter6/imgs/inverted_pendulum.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/line_match_in_asso_cache.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/line_match_in_asso_cache.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 295268,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/line_match_in_asso_cache.png",
+      "exportedPath": "articles/chapter6/imgs/line_match_in_asso_cache.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/line_matching.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/line_matching.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 278871,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/line_matching.png",
+      "exportedPath": "articles/chapter6/imgs/line_matching.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/many_cache.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/many_cache.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 389839,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/many_cache.png",
+      "exportedPath": "articles/chapter6/imgs/many_cache.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/memory_hierarchy.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/memory_hierarchy.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 313644,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/memory_hierarchy.png",
+      "exportedPath": "articles/chapter6/imgs/memory_hierarchy.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/memory_module.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/memory_module.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 452975,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/memory_module.png",
+      "exportedPath": "articles/chapter6/imgs/memory_module.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/organization_of_cache.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/organization_of_cache.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 461296,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/organization_of_cache.png",
+      "exportedPath": "articles/chapter6/imgs/organization_of_cache.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/padding_ex.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/padding_ex.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 108965,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/padding_ex.png",
+      "exportedPath": "articles/chapter6/imgs/padding_ex.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/principle_of_memory_hierarchy.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/principle_of_memory_hierarchy.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 182976,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/principle_of_memory_hierarchy.png",
+      "exportedPath": "articles/chapter6/imgs/principle_of_memory_hierarchy.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/set_selection.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/set_selection.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 184936,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/set_selection.png",
+      "exportedPath": "articles/chapter6/imgs/set_selection.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/summary_of_cache_parameters.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/summary_of_cache_parameters.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 234399,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/summary_of_cache_parameters.png",
+      "exportedPath": "articles/chapter6/imgs/summary_of_cache_parameters.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/imgs/why_cache_has_middle_index.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/why_cache_has_middle_index.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 311065,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/why_cache_has_middle_index.png",
+      "exportedPath": "articles/chapter6/imgs/why_cache_has_middle_index.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/6.1-Storage_Technologies.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 12493,
-      "exportedPath": "para/project/cs_app_organize/chapter6/6.1-storage_technologies.html",
+    "articles/chapter6/6.1-Storage_Technologies.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 12373,
+      "exportedPath": "articles/chapter6/6.1-storage_technologies.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter6/imgs/inverted_pendulum.png",
-        "para/project/cs_app_organize/chapter6/imgs/dram_vs_sram.png",
-        "para/project/cs_app_organize/chapter6/imgs/dram_view.png",
-        "para/project/cs_app_organize/chapter6/imgs/dram_ex.png",
-        "para/project/cs_app_organize/chapter6/imgs/memory_module.png",
-        "para/project/cs_app_organize/chapter6/imgs/bus_structure.png"
+        "articles/chapter6/imgs/inverted_pendulum.png",
+        "articles/chapter6/imgs/dram_vs_sram.png",
+        "articles/chapter6/imgs/dram_view.png",
+        "articles/chapter6/imgs/dram_ex.png",
+        "articles/chapter6/imgs/memory_module.png",
+        "articles/chapter6/imgs/bus_structure.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter6/6.2-Locality.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/6.2-Locality.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 5004,
-      "exportedPath": "para/project/cs_app_organize/chapter6/6.2-locality.html",
+      "exportedPath": "articles/chapter6/6.2-locality.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter6/6.3-The_Memory_Hierarchy.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 7788,
-      "exportedPath": "para/project/cs_app_organize/chapter6/6.3-the_memory_hierarchy.html",
+    "articles/chapter6/6.3-The_Memory_Hierarchy.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 7688,
+      "exportedPath": "articles/chapter6/6.3-the_memory_hierarchy.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter6/imgs/memory_hierarchy.png",
-        "para/project/cs_app_organize/chapter6/imgs/principle_of_memory_hierarchy.png",
-        "para/project/cs_app_organize/chapter6/imgs/many_cache.png"
+        "articles/chapter6/imgs/memory_hierarchy.png",
+        "articles/chapter6/imgs/principle_of_memory_hierarchy.png",
+        "articles/chapter6/imgs/many_cache.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter6/6.4-Cache_Memories.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 19877,
-      "exportedPath": "para/project/cs_app_organize/chapter6/6.4-cache_memories.html",
+    "articles/chapter6/6.4-Cache_Memories.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 19517,
+      "exportedPath": "articles/chapter6/6.4-cache_memories.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter6/imgs/organization_of_cache.png",
-        "para/project/cs_app_organize/chapter6/imgs/summary_of_cache_parameters.png",
-        "para/project/cs_app_organize/chapter6/imgs/direct_mapped_cache.png",
-        "para/project/cs_app_organize/chapter6/imgs/set_selection.png",
-        "para/project/cs_app_organize/chapter6/imgs/line_matching.png",
-        "para/project/cs_app_organize/chapter6/imgs/4_bit_address_ex.png",
-        "para/project/cs_app_organize/chapter6/imgs/cache_0.png",
-        "para/project/cs_app_organize/chapter6/imgs/cache_1.png",
-        "para/project/cs_app_organize/chapter6/imgs/cache_2.png",
-        "para/project/cs_app_organize/chapter6/imgs/cache_3.png",
-        "para/project/cs_app_organize/chapter6/imgs/cache_4.png",
-        "para/project/cs_app_organize/chapter6/imgs/conflict_miss_ex.png",
-        "para/project/cs_app_organize/chapter6/imgs/why_cache_has_middle_index.png",
-        "para/project/cs_app_organize/chapter6/imgs/padding_ex.png",
-        "para/project/cs_app_organize/chapter6/imgs/asso_cache.png",
-        "para/project/cs_app_organize/chapter6/imgs/line_match_in_asso_cache.png",
-        "para/project/cs_app_organize/chapter6/imgs/full_asso_cache.png",
-        "para/project/cs_app_organize/chapter6/imgs/i7_ex.png"
+        "articles/chapter6/imgs/organization_of_cache.png",
+        "articles/chapter6/imgs/summary_of_cache_parameters.png",
+        "articles/chapter6/imgs/direct_mapped_cache.png",
+        "articles/chapter6/imgs/set_selection.png",
+        "articles/chapter6/imgs/line_matching.png",
+        "articles/chapter6/imgs/4_bit_address_ex.png",
+        "articles/chapter6/imgs/cache_0.png",
+        "articles/chapter6/imgs/cache_1.png",
+        "articles/chapter6/imgs/cache_2.png",
+        "articles/chapter6/imgs/cache_3.png",
+        "articles/chapter6/imgs/cache_4.png",
+        "articles/chapter6/imgs/conflict_miss_ex.png",
+        "articles/chapter6/imgs/why_cache_has_middle_index.png",
+        "articles/chapter6/imgs/padding_ex.png",
+        "articles/chapter6/imgs/asso_cache.png",
+        "articles/chapter6/imgs/line_match_in_asso_cache.png",
+        "articles/chapter6/imgs/full_asso_cache.png",
+        "articles/chapter6/imgs/i7_ex.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter6/6.5-Writing_Cache_Friendly_Code.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/6.5-Writing_Cache_Friendly_Code.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 910,
-      "exportedPath": "para/project/cs_app_organize/chapter6/6.5-writing_cache_friendly_code.html",
+      "exportedPath": "articles/chapter6/6.5-writing_cache_friendly_code.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter7/imgs/ELF_relocatble_obj.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter7/imgs/ELF_relocatble_obj.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 162495,
-      "exportedPath": "para/project/cs_app_organize/chapter7/imgs/elf_relocatble_obj.png",
+      "exportedPath": "articles/chapter7/imgs/elf_relocatble_obj.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter7/imgs/ELF_Symbol_Table.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter7/imgs/ELF_Symbol_Table.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 314906,
-      "exportedPath": "para/project/cs_app_organize/chapter7/imgs/elf_symbol_table.png",
+      "exportedPath": "articles/chapter7/imgs/elf_symbol_table.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter7/imgs/Linking_with_static_libraries.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter7/imgs/Linking_with_static_libraries.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 180393,
-      "exportedPath": "para/project/cs_app_organize/chapter7/imgs/linking_with_static_libraries.png",
+      "exportedPath": "articles/chapter7/imgs/linking_with_static_libraries.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter7/imgs/static_linking.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter7/imgs/static_linking.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 173403,
-      "exportedPath": "para/project/cs_app_organize/chapter7/imgs/static_linking.png",
+      "exportedPath": "articles/chapter7/imgs/static_linking.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter7/7.1-Compiler_Drivers.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter7/7.1-Compiler_Drivers.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 1651,
-      "exportedPath": "para/project/cs_app_organize/chapter7/7.1-compiler_drivers.html",
+      "exportedPath": "articles/chapter7/7.1-compiler_drivers.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter7/imgs/static_linking.png"
+        "lib/media/static_linking.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter7/7.2-Static_Linking.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter7/7.2-Static_Linking.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 1797,
-      "exportedPath": "para/project/cs_app_organize/chapter7/7.2-static_linking.html",
+      "exportedPath": "articles/chapter7/7.2-static_linking.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter7/7.3-Object_Files.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter7/7.3-Object_Files.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 1100,
-      "exportedPath": "para/project/cs_app_organize/chapter7/7.3-object_files.html",
+      "exportedPath": "articles/chapter7/7.3-object_files.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter7/7.4-Relocatable_Object_Files.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter7/7.4-Relocatable_Object_Files.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 3590,
-      "exportedPath": "para/project/cs_app_organize/chapter7/7.4-relocatable_object_files.html",
+      "exportedPath": "articles/chapter7/7.4-relocatable_object_files.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter7/imgs/elf_relocatble_obj.png"
+        "lib/media/elf_relocatble_obj.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter7/7.5-Symbols_and-Symbol_Tables.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 4184,
-      "exportedPath": "para/project/cs_app_organize/chapter7/7.5-symbols_and-symbol_tables.html",
+    "articles/chapter7/7.5-Symbols_and-Symbol_Tables.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 4164,
+      "exportedPath": "articles/chapter7/7.5-symbols_and-symbol_tables.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter7/imgs/elf_symbol_table.png"
+        "articles/chapter7/imgs/elf_symbol_table.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter7/7.6-Symbol_Resolution.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 12169,
-      "exportedPath": "para/project/cs_app_organize/chapter7/7.6-symbol_resolution.html",
+    "articles/chapter7/7.6-Symbol_Resolution.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 12129,
+      "exportedPath": "articles/chapter7/7.6-symbol_resolution.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter7/imgs/linking_with_static_libraries.png"
+        "articles/chapter7/imgs/linking_with_static_libraries.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/address_trans.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/address_trans.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 192276,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/address_trans.png",
+      "exportedPath": "articles/chapter9/imgs/address_trans.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/address_translation_symbols.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/address_translation_symbols.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 165604,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/address_translation_symbols.png",
+      "exportedPath": "articles/chapter9/imgs/address_translation_symbols.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/allocate_page.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/allocate_page.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 397365,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/allocate_page.png",
+      "exportedPath": "articles/chapter9/imgs/allocate_page.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/k_level_address_trans.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/k_level_address_trans.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 132756,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/k_level_address_trans.png",
+      "exportedPath": "articles/chapter9/imgs/k_level_address_trans.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/memory_protection.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/memory_protection.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 248196,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/memory_protection.png",
+      "exportedPath": "articles/chapter9/imgs/memory_protection.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/page_fault.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/page_fault.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 899089,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/page_fault.png",
+      "exportedPath": "articles/chapter9/imgs/page_fault.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/page_hit.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/page_hit.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 386754,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/page_hit.png",
+      "exportedPath": "articles/chapter9/imgs/page_hit.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/page_hit_detail.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/page_hit_detail.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 85350,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/page_hit_detail.png",
+      "exportedPath": "articles/chapter9/imgs/page_hit_detail.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/page_miss_ex.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/page_miss_ex.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 246528,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/page_miss_ex.png",
+      "exportedPath": "articles/chapter9/imgs/page_miss_ex.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/page_table.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/page_table.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 408855,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/page_table.png",
+      "exportedPath": "articles/chapter9/imgs/page_table.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/physical_address.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/physical_address.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 135394,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/physical_address.png",
+      "exportedPath": "articles/chapter9/imgs/physical_address.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/separate_address_space.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/separate_address_space.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 317240,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/separate_address_space.png",
+      "exportedPath": "articles/chapter9/imgs/separate_address_space.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/sharing.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/sharing.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 121009,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/sharing.png",
+      "exportedPath": "articles/chapter9/imgs/sharing.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/TLB_Hit.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/TLB_Hit.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 134057,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/tlb_hit.png",
+      "exportedPath": "articles/chapter9/imgs/tlb_hit.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/TLB_index.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/TLB_index.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 66191,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/tlb_index.png",
+      "exportedPath": "articles/chapter9/imgs/tlb_index.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/TLB_Miss.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/TLB_Miss.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 98911,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/tlb_miss.png",
+      "exportedPath": "articles/chapter9/imgs/tlb_miss.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/two_level_page.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/two_level_page.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 394044,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/two_level_page.png",
+      "exportedPath": "articles/chapter9/imgs/two_level_page.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/virtual_address.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/virtual_address.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 216576,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/virtual_address.png",
+      "exportedPath": "articles/chapter9/imgs/virtual_address.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/VM_and_Cache.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/VM_and_Cache.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 196333,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/vm_and_cache.png",
+      "exportedPath": "articles/chapter9/imgs/vm_and_cache.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/imgs/VM_ex.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/VM_ex.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 344934,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/vm_ex.png",
+      "exportedPath": "articles/chapter9/imgs/vm_ex.png",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/9.1-Physical_and_Virtual_Addressing.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 1436,
-      "exportedPath": "para/project/cs_app_organize/chapter9/9.1-physical_and_virtual_addressing.html",
+    "articles/chapter9/9.1-Physical_and_Virtual_Addressing.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 1396,
+      "exportedPath": "articles/chapter9/9.1-physical_and_virtual_addressing.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter9/imgs/physical_address.png",
-        "para/project/cs_app_organize/chapter9/imgs/virtual_address.png"
+        "articles/chapter9/imgs/physical_address.png",
+        "articles/chapter9/imgs/virtual_address.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter9/9.2-Address_Spaces.md": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/9.2-Address_Spaces.md": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 1596,
-      "exportedPath": "para/project/cs_app_organize/chapter9/9.2-address_spaces.html",
+      "exportedPath": "articles/chapter9/9.2-address_spaces.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/chapter9/9.3-VM_as_a_Tool_for_Caching.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 7604,
-      "exportedPath": "para/project/cs_app_organize/chapter9/9.3-vm_as_a_tool_for_caching.html",
+    "articles/chapter9/9.3-VM_as_a_Tool_for_Caching.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 7504,
+      "exportedPath": "articles/chapter9/9.3-vm_as_a_tool_for_caching.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter9/imgs/vm_ex.png",
-        "para/project/cs_app_organize/chapter9/imgs/page_table.png",
-        "para/project/cs_app_organize/chapter9/imgs/page_hit.png",
-        "para/project/cs_app_organize/chapter9/imgs/page_fault.png",
-        "para/project/cs_app_organize/chapter9/imgs/allocate_page.png"
+        "articles/chapter9/imgs/vm_ex.png",
+        "articles/chapter9/imgs/page_table.png",
+        "articles/chapter9/imgs/page_hit.png",
+        "articles/chapter9/imgs/page_fault.png",
+        "articles/chapter9/imgs/allocate_page.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter9/9.4-VM_as_a_Tool_for_Memory_Management.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 3623,
-      "exportedPath": "para/project/cs_app_organize/chapter9/9.4-vm_as_a_tool_for_memory_management.html",
+    "articles/chapter9/9.4-VM_as_a_Tool_for_Memory_Management.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 3563,
+      "exportedPath": "articles/chapter9/9.4-vm_as_a_tool_for_memory_management.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter9/imgs/separate_address_space.png",
-        "para/project/cs_app_organize/chapter9/imgs/sharing.png"
+        "articles/chapter9/imgs/separate_address_space.png",
+        "articles/chapter9/imgs/sharing.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter9/9.5-VM_as_a_Tool_for_Memory_Protection.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 1493,
-      "exportedPath": "para/project/cs_app_organize/chapter9/9.5-vm_as_a_tool_for_memory_protection.html",
+    "articles/chapter9/9.5-VM_as_a_Tool_for_Memory_Protection.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 1473,
+      "exportedPath": "articles/chapter9/9.5-vm_as_a_tool_for_memory_protection.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter9/imgs/memory_protection.png"
+        "articles/chapter9/imgs/memory_protection.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/chapter9/9.6-Address_Translation.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 8613,
-      "exportedPath": "para/project/cs_app_organize/chapter9/9.6-address_translation.html",
+    "articles/chapter9/9.6-Address_Translation.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 8413,
+      "exportedPath": "articles/chapter9/9.6-address_translation.html",
       "dependencies": [
-        "para/project/cs_app_organize/chapter9/imgs/address_translation_symbols.png",
-        "para/project/cs_app_organize/chapter9/imgs/address_trans.png",
-        "para/project/cs_app_organize/chapter9/imgs/page_hit_detail.png",
-        "para/project/cs_app_organize/chapter9/imgs/page_miss_ex.png",
-        "para/project/cs_app_organize/chapter9/imgs/vm_and_cache.png",
-        "para/project/cs_app_organize/chapter9/imgs/tlb_index.png",
-        "para/project/cs_app_organize/chapter9/imgs/tlb_hit.png",
-        "para/project/cs_app_organize/chapter9/imgs/tlb_miss.png",
-        "para/project/cs_app_organize/chapter9/imgs/two_level_page.png",
-        "para/project/cs_app_organize/chapter9/imgs/k_level_address_trans.png"
+        "articles/chapter9/imgs/address_translation_symbols.png",
+        "articles/chapter9/imgs/address_trans.png",
+        "articles/chapter9/imgs/page_hit_detail.png",
+        "articles/chapter9/imgs/page_miss_ex.png",
+        "articles/chapter9/imgs/vm_and_cache.png",
+        "articles/chapter9/imgs/tlb_index.png",
+        "articles/chapter9/imgs/tlb_hit.png",
+        "articles/chapter9/imgs/tlb_miss.png",
+        "articles/chapter9/imgs/two_level_page.png",
+        "articles/chapter9/imgs/k_level_address_trans.png"
       ]
     },
-    "PARA/Project/CS_APP_organize/ch1-A_Tour_of_Computer_Systems.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 1270,
-      "exportedPath": "para/project/cs_app_organize/ch1-a_tour_of_computer_systems.html",
+    "articles/ch1-A_Tour_of_Computer_Systems.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 1070,
+      "exportedPath": "articles/ch1-a_tour_of_computer_systems.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/ch2-Representing_and_Manipulating_Info.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 2185,
-      "exportedPath": "para/project/cs_app_organize/ch2-representing_and_manipulating_info.html",
+    "articles/ch2-Representing_and_Manipulating_Info.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 2105,
+      "exportedPath": "articles/ch2-representing_and_manipulating_info.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/ch6-The_Memory_Hierarchy.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 2440,
-      "exportedPath": "para/project/cs_app_organize/ch6-the_memory_hierarchy.html",
+    "articles/ch6-The_Memory_Hierarchy.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 2340,
+      "exportedPath": "articles/ch6-the_memory_hierarchy.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/ch7-Linking.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 3786,
-      "exportedPath": "para/project/cs_app_organize/ch7-linking.html",
+    "articles/ch7-Linking.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 3666,
+      "exportedPath": "articles/ch7-linking.html",
       "dependencies": []
     },
-    "PARA/Project/CS_APP_organize/ch9-Virtual_Memory.md": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 3360,
-      "exportedPath": "para/project/cs_app_organize/ch9-virtual_memory.html",
+    "articles/ch9-Virtual_Memory.md": {
+      "modifiedTime": 1749271748015,
+      "sourceSize": 3426,
+      "exportedPath": "articles/ch9-virtual_memory.html",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter1/imgs/abstractions_provided_by_os.png": {
-      "modifiedTime": 1749271344223,
+    "lib/media/abstractions_provided_by_os.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 17977,
-      "exportedPath": "para/project/cs_app_organize/chapter1/imgs/abstractions_provided_by_os.png",
+      "exportedPath": "lib/media/abstractions_provided_by_os.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter1/imgs/process_virtual_address_space.png": {
-      "modifiedTime": 1749271344223,
+    "lib/media/process_virtual_address_space.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 226938,
-      "exportedPath": "para/project/cs_app_organize/chapter1/imgs/process_virtual_address_space.png",
+      "exportedPath": "lib/media/process_virtual_address_space.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter2/imgs/floating_point.png": {
-      "modifiedTime": 1749271344223,
+    "lib/media/floating_point.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 377547,
-      "exportedPath": "para/project/cs_app_organize/chapter2/imgs/floating_point.png",
+      "exportedPath": "lib/media/floating_point.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter2/imgs/floating_point_range.png": {
-      "modifiedTime": 1749271344223,
+    "lib/media/floating_point_range.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 272031,
-      "exportedPath": "para/project/cs_app_organize/chapter2/imgs/floating_point_range.png",
+      "exportedPath": "lib/media/floating_point_range.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter6/imgs/inverted_pendulum.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 160871,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/inverted_pendulum.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/dram_vs_sram.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/dram_vs_sram.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 129467,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/dram_vs_sram.png",
+      "exportedPath": "articles/chapter6/imgs/dram_vs_sram.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter6/imgs/dram_view.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/dram_view.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 211629,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/dram_view.png",
+      "exportedPath": "articles/chapter6/imgs/dram_view.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter6/imgs/dram_ex.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter6/imgs/dram_ex.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 404745,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/dram_ex.png",
+      "exportedPath": "articles/chapter6/imgs/dram_ex.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter6/imgs/memory_module.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 452975,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/memory_module.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/bus_structure.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 155487,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/bus_structure.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/memory_hierarchy.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 313644,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/memory_hierarchy.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/principle_of_memory_hierarchy.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 182976,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/principle_of_memory_hierarchy.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/many_cache.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 389839,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/many_cache.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/organization_of_cache.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 461296,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/organization_of_cache.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/summary_of_cache_parameters.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 234399,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/summary_of_cache_parameters.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/direct_mapped_cache.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 142943,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/direct_mapped_cache.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/set_selection.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 184936,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/set_selection.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/line_matching.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 278871,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/line_matching.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/4_bit_address_ex.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 199136,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/4_bit_address_ex.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/cache_0.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 40149,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/cache_0.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/cache_1.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 36264,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/cache_1.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/cache_2.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 43239,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/cache_2.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/cache_3.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 51282,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/cache_3.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/cache_4.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 41962,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/cache_4.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/conflict_miss_ex.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 112623,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/conflict_miss_ex.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/why_cache_has_middle_index.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 311065,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/why_cache_has_middle_index.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/padding_ex.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 108965,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/padding_ex.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/asso_cache.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 282700,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/asso_cache.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/line_match_in_asso_cache.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 295268,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/line_match_in_asso_cache.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/full_asso_cache.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 167492,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/full_asso_cache.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter6/imgs/i7_ex.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 405217,
-      "exportedPath": "para/project/cs_app_organize/chapter6/imgs/i7_ex.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter7/imgs/static_linking.png": {
-      "modifiedTime": 1749271344223,
+    "lib/media/static_linking.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 173403,
-      "exportedPath": "para/project/cs_app_organize/chapter7/imgs/static_linking.png",
+      "exportedPath": "lib/media/static_linking.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter7/imgs/elf_relocatble_obj.png": {
-      "modifiedTime": 1749271344223,
+    "lib/media/elf_relocatble_obj.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 162495,
-      "exportedPath": "para/project/cs_app_organize/chapter7/imgs/elf_relocatble_obj.png",
+      "exportedPath": "lib/media/elf_relocatble_obj.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter7/imgs/elf_symbol_table.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter7/imgs/elf_symbol_table.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 314906,
-      "exportedPath": "para/project/cs_app_organize/chapter7/imgs/elf_symbol_table.png",
+      "exportedPath": "articles/chapter7/imgs/elf_symbol_table.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter7/imgs/linking_with_static_libraries.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter7/imgs/linking_with_static_libraries.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 180393,
-      "exportedPath": "para/project/cs_app_organize/chapter7/imgs/linking_with_static_libraries.png",
+      "exportedPath": "articles/chapter7/imgs/linking_with_static_libraries.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter9/imgs/physical_address.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 135394,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/physical_address.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/virtual_address.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 216576,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/virtual_address.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/vm_ex.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/vm_ex.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 344934,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/vm_ex.png",
+      "exportedPath": "articles/chapter9/imgs/vm_ex.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter9/imgs/page_table.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 408855,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/page_table.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/page_hit.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 386754,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/page_hit.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/page_fault.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 899089,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/page_fault.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/allocate_page.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 397365,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/allocate_page.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/separate_address_space.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 317240,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/separate_address_space.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/sharing.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 121009,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/sharing.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/memory_protection.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 248196,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/memory_protection.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/address_translation_symbols.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 165604,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/address_translation_symbols.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/address_trans.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 192276,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/address_trans.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/page_hit_detail.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 85350,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/page_hit_detail.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/page_miss_ex.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 246528,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/page_miss_ex.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/vm_and_cache.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/vm_and_cache.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 196333,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/vm_and_cache.png",
+      "exportedPath": "articles/chapter9/imgs/vm_and_cache.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter9/imgs/tlb_index.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/tlb_index.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 66191,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/tlb_index.png",
+      "exportedPath": "articles/chapter9/imgs/tlb_index.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter9/imgs/tlb_hit.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/tlb_hit.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 134057,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/tlb_hit.png",
+      "exportedPath": "articles/chapter9/imgs/tlb_hit.png",
       "dependencies": []
     },
-    "para/project/cs_app_organize/chapter9/imgs/tlb_miss.png": {
-      "modifiedTime": 1749271344223,
+    "articles/chapter9/imgs/tlb_miss.png": {
+      "modifiedTime": 1749271748015,
       "sourceSize": 98911,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/tlb_miss.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/two_level_page.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 394044,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/two_level_page.png",
-      "dependencies": []
-    },
-    "para/project/cs_app_organize/chapter9/imgs/k_level_address_trans.png": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 132756,
-      "exportedPath": "para/project/cs_app_organize/chapter9/imgs/k_level_address_trans.png",
+      "exportedPath": "articles/chapter9/imgs/tlb_miss.png",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1749271344223,
-      "sourceSize": 89774,
+      "modifiedTime": 1749271748015,
+      "sourceSize": 85776,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 225163,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 507,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1749271344223,
+      "modifiedTime": 1749271748015,
       "sourceSize": 25499,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
